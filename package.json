@@ -6,6 +6,7 @@
   "scripts": {
     "build": "NODE_ENV=production  webpack --colors --display-error-details --config webpack/webpack.prod.js --env.theme=${theme}",
     "build:theme": "NODE_ENV=production webpack --colors --display-error-details --config webpack/webpack.theme.prod.js --env.theme=${theme}",
+    "build:all": "./utils/buildAll.sh",
     "build:admin": "NODE_ENV=production webpack --colors --display-error-details --config webpack/webpack.admin.prod.js",
     "clean": "rm -rf data && rm -rf public/uploads",
     "seed": "node ./api/seed",

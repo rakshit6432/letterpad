@@ -22,6 +22,7 @@ const FileNameReplacementPlugin = function(theme) {
     },
   };
 };
+
 function validateAndReplace(result, target) {
   ["request", "userRequest", "resource"].forEach(function(key) {
     if (!result[key].includes("/node_modules/")) {

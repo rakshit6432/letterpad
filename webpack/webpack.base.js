@@ -6,7 +6,9 @@ const WriteFilePlugin = require("write-file-webpack-plugin");
 const WebpackBar = require("webpackbar");
 
 const isDev = process.env.NODE_ENV === "dev" ? true : false;
-const babelRc = fs.readFileSync(path.resolve(__dirname, "../.babelrc"));
+const babelRc = JSON.parse(
+  fs.readFileSync(path.resolve(__dirname, "../.babelrc")),
+);
 
 const vendorFiles = [
   "@babel/polyfill",
@@ -19,6 +21,7 @@ const vendorFiles = [
 if (isDev) {
   vendorFiles.push("webpack-hot-middleware/client?reload=true");
 }
+
 module.exports = (args, name) => {
   const config = {
     mode: "development", // for production we use this mode to ignore uglify plugin. it is slow.
@@ -79,9 +82,7 @@ module.exports = (args, name) => {
           use: [
             {
               loader: "babel-loader",
-              options: {
-                ...JSON.parse(babelRc),
-              },
+              options: babelRc,
             },
             { loader: "eslint-loader" },
           ],
@@ -93,9 +94,7 @@ module.exports = (args, name) => {
           use: [
             {
               loader: "babel-loader",
-              options: {
-                ...JSON.parse(babelRc),
-              },
+              options: babelRc,
             },
             { loader: "eslint-loader" },
           ],

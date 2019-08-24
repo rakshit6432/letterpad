@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 bcc050100a087a75c9f3b5c5413486eff1dcae1c Abhishek Saha <abhisheksaha11@gmail.com> 1559605840 +0200	branch: Created from HEAD
+bcc050100a087a75c9f3b5c5413486eff1dcae1c 39d7033a71885d83017ce5dd195f2e10fb34b553 Abhishek Saha <abhisheksaha11@gmail.com> 1559605849 +0200	commit: wip
+39d7033a71885d83017ce5dd195f2e10fb34b553 88f14b82aaa493b7a2e28424f7f74837253854af Abhishek Saha <abhisheksaha11@gmail.com> 1559676864 +0200	commit: Server to server request to generate files
+88f14b82aaa493b7a2e28424f7f74837253854af 0975e484165c7aff4d61e8ab08ffe437c3cbe0b2 Abhishek Saha <abhisheksaha11@gmail.com> 1559677084 +0200	commit: Created generator
+0975e484165c7aff4d61e8ab08ffe437c3cbe0b2 deda9ef8cef39d36c077c8a3c335872aa415ca41 Abhishek Saha <abhisheksaha11@gmail.com> 1559738388 +0200	commit: Fixed SSr for taxonomy
+deda9ef8cef39d36c077c8a3c335872aa415ca41 8ec8b7110323f4393555a60002be67e212e7a7a3 Abhishek Saha <abhisheksaha11@gmail.com> 1559861554 +0200	commit: carries output to client
+8ec8b7110323f4393555a60002be67e212e7a7a3 deda9ef8cef39d36c077c8a3c335872aa415ca41 Abhishek Saha <abhisheksaha11@gmail.com> 1559861570 +0200	reset: moving to HEAD~1
+deda9ef8cef39d36c077c8a3c335872aa415ca41 f36f3b0bb20098ceba4fe6cde53278c385805f88 Abhishek Saha <abhisheksaha11@gmail.com> 1559861680 +0200	commit: carries output to client
+f36f3b0bb20098ceba4fe6cde53278c385805f88 9fbd83b8629b1a207d5d66ccd2f700506aabf2cb Abhishek Saha <abhisheksaha11@gmail.com> 1559869150 +0200	commit: a rough demo
+9fbd83b8629b1a207d5d66ccd2f700506aabf2cb 0bb5b9fe48443f6fb7c50168e753a269f7c37b6d Abhishek Saha <abhisheksaha11@gmail.com> 1559998960 +0200	commit: Progressive UI works
+0bb5b9fe48443f6fb7c50168e753a269f7c37b6d db2f6d0f4243f8443f5ecbf042063d55da034ef3 Abhishek Saha <abhisheksaha11@gmail.com> 1559999053 +0200	commit: Progressive UI works

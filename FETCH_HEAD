@@ -1,0 +1,21 @@
+bcc050100a087a75c9f3b5c5413486eff1dcae1c		branch 'master' of github.com:letterpad/letterpad
+db3cc55c501f80081b97f1d8d24d5df6de4b8d59	not-for-merge	branch 'add_russian_translation' of github.com:letterpad/letterpad
+9e7ec34c37b37743496c8385def5fd3844cc0b18	not-for-merge	branch 'as-combine-ports' of github.com:letterpad/letterpad
+97d9548404a0cfa29c69fe1a7721a04e6ce6f2b8	not-for-merge	branch 'as-resolver-tests' of github.com:letterpad/letterpad
+6d753c1a4c0b6cc9d489b85a285288806129de87	not-for-merge	branch 'bug/107_user_unable_to_delete_media' of github.com:letterpad/letterpad
+98d7ddba80c5e0f64fc000b7402399d4fc9240fd	not-for-merge	branch 'bump-serialize-version' of github.com:letterpad/letterpad
+7a4a08f6de17324155dee47344abfb34bfafa5d8	not-for-merge	branch 'change-field-names' of github.com:letterpad/letterpad
+2d401df50094812208d586943944b33806a9c9ad	not-for-merge	branch 'custom-featured-image' of github.com:letterpad/letterpad
+d7f8ff2d576ac25fca71a8d2a5dc2b48934c84f9	not-for-merge	branch 'delete-media-in-bulk' of github.com:letterpad/letterpad
+15667b101ad901260fdbfae89be2dbe3dcc174d9	not-for-merge	branch 'docker-branch' of github.com:letterpad/letterpad
+fc5999e6d8c87bd5e2dcb23ece6124bc4b07850c	not-for-merge	branch 'editor-fixes' of github.com:letterpad/letterpad
+757fd91b4b54ecf70d0ee29ae88f3668d4cd2663	not-for-merge	branch 'featured-image-fix' of github.com:letterpad/letterpad
+91062dfc31e3c31f755538dc99951f8c4521f0ee	not-for-merge	branch 'fix-admin-api-url' of github.com:letterpad/letterpad
+a4d7e1daec7ee4efa80cef6dc32f5a9955586864	not-for-merge	branch 'fix-admin-menu-state' of github.com:letterpad/letterpad
+a9947511832ca3526ee61934f0478471928d7271	not-for-merge	branch 'fix-fileupload' of github.com:letterpad/letterpad
+a6c6da8cae481707ae1dd7233aa90ce2dd3f08c6	not-for-merge	branch 'integrate-lp-editor' of github.com:letterpad/letterpad
+389186a261de296dec4cd0b5bad2bc528b214f65	not-for-merge	branch 'menu-builder-enhancement' of github.com:letterpad/letterpad
+0d6c414688b64644d491bce2ca5a750e79fa7a02	not-for-merge	branch 'prepare-for-cli-installs' of github.com:letterpad/letterpad
+d62be32cbf31a5772bb71122e4233a970b59b9ed	not-for-merge	branch 'remove-unused-deps' of github.com:letterpad/letterpad
+7d6d16aca6b871aa9697d7330b0272827d46d19c	not-for-merge	branch 'save-css-from-admin-panel' of github.com:letterpad/letterpad
+e8c53fa0fde13f4386034e221d19fb81937a5048	not-for-merge	branch 'single-port-graphql-url-fix' of github.com:letterpad/letterpad

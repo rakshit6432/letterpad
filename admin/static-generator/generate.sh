@@ -8,7 +8,6 @@
 wget \
      --recursive \
      --page-requisites \
-     --header "static: true" \
      --no-clobber \
      --html-extension \
      --convert-links \
@@ -21,4 +20,4 @@ wget \
      --no-host-directories \
      --no-parent \
         robots=off \
-        $rootUrl 2>&1
+        http://localhost:4040   
